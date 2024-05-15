@@ -78,4 +78,4 @@ while True:
         break
 
     else:
-        msg = "Comando inválido."
+        msg = 'Comando inválido.'
