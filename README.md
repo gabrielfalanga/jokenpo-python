@@ -11,7 +11,7 @@ O jogo apresenta:
 
 ## Demonstração
 
-Em breve...
+![GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY295MjUwZ3ZwdGxxMzZiMzllMjgyZ25jdHloOHRlYW00ZjBrOXNyYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NT4pJQB405bJwMajBF/giphy-downsized-large.gif)
 
 
 ## Como Jogar 💻
